@@ -1,9 +1,9 @@
 package n1exercici1;
 
 public class NoGenericMethods {
-    Object obj1;
-    Object obj2;
-    Object obj3;
+    private Object obj1;
+    private Object obj2;
+    private Object obj3;
 
     public NoGenericMethods(Object obj1, Object obj2, Object obj3) {
         this.obj1 = obj1;

@@ -1,9 +1,9 @@
 package n1exercici2;
 
 public class Persona {
-    String nom;
-    String cognom;
-    int edad;
+    private String nom;
+    private String cognom;
+    private int edad;
 
     public Persona(String nom, String cognom, int edad) {
         this.nom = nom;
